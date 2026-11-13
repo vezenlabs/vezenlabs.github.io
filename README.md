@@ -1,13 +1,13 @@
 # Bog Vezen Games — GitHub Pages
 
-Static website for UFO DRIFT: Space Arcade. Owner: bogvezengames.
+Static website for UFO DRIFT: Space Arcade. Owner: vezenlabs.
 
 ## Публикуване
 
-1. Влез в GitHub → New repository. Owner: bogvezengames. Repository name: bogvezengames.github.io. Избери Public и Add README. Create repository.
+1. Влез в GitHub → New repository. Owner: vezenlabs. Repository name: vezenlabs.github.io. Избери Public и Add README. Create repository.
 2. Разархивирай предоставения ZIP. В хранилището: Add file → Upload files. Качи ВСИЧКИ файлове от архива директно в корена; index.html трябва да е до README.md, а не в подпапка. GitHub не разархивира ZIP. Commit changes.
 3. Settings → Pages → Source: Deploy from a branch → Branch: main → Folder: / (root) → Save.
-4. Изчакай успешна deployment задача. Провери https://bogvezengames.github.io/ и https://bogvezengames.github.io/privacy.html без вход (например Incognito). Възможно е публикуването да отнеме до 10 минути.
+4. Изчакай успешна deployment задача. Провери https://vezenlabs.github.io/ и https://vezenlabs.github.io/privacy.html без вход (например Incognito). Възможно е публикуването да отнеме до 10 минути.
 5. Едва след проверката използвай тези адреси в Play Console като Developer website и Privacy policy. Това НЕ публикува играта в Google Play.
 
 ## Текущ статус
